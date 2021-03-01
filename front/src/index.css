@@ -1,0 +1,20 @@
+.tabla{
+  margin: 50px;
+  
+}
+.divTable{
+  width: 95%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.divForm{
+  margin-left: 45%;
+  margin-right: 30%;
+  margin-top: 2%;
+}
+
+.divh3{
+  margin-left: 40px;
+  
+}
